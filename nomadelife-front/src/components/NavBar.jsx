@@ -1,9 +1,13 @@
 import React from 'react'
+<<<<<<< HEAD
 import styles from './NavBar.module.css'
+=======
+>>>>>>> 66063a444613acc6531724a2b3f5634026382961
 
 const NavBar = () => {
   return (
     <>
+<<<<<<< HEAD
     <nav className={styles.navbar}>
         <div className={styles.brand}>
             Nomade <span>DEV</span>
@@ -32,6 +36,9 @@ const NavBar = () => {
             </li>
         </ul>
     </nav>
+=======
+    
+>>>>>>> 66063a444613acc6531724a2b3f5634026382961
     </>
   )
 }
