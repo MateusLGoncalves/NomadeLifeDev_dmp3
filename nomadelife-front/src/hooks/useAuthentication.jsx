@@ -85,6 +85,6 @@ export const useAuthentication = () => {
             loading,
             logout,
             login
-        )
+        )   
     }
 }
