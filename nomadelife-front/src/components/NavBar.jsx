@@ -10,13 +10,13 @@ const NavBar = () => {
       </div>
       <ul className={styles.links_list}>
         <li>
-          <a href="#">Home</a>
+          <a href="Home">Home</a>
         </li>
         <li>
-          <a href="#">Login</a>
+          <a href="Login">Login</a>
         </li>
         <li>
-          <a href="#">Register</a>
+          <a href="Register">Register</a>
         </li>
         <li>
           <a href="#">New Post</a>
