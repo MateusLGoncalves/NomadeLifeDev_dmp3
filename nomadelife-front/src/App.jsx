@@ -7,9 +7,11 @@ import Login from './pages/Login/Login'
 import Home from './pages/Home/Home'
 import { useState } from 'react'
 
+
 function App() {
   return (
     <>
+
       <BrowserRouter>
         <NavBar />
         <div className='container'>
@@ -20,6 +22,8 @@ function App() {
         </div>
         <Footer />
       </BrowserRouter>
+      <NavBar />
+      <Footer />
     </>
   )
 }
