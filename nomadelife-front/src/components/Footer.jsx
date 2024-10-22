@@ -5,7 +5,9 @@ const Footer = () => {
   return (
     <>
     <footer className={styles.footer}>
+
         <h3>Plataforma para desenvolvedores que tem o espirito livre!</h3>
+
         <p>Nomade Developers &copy; 2024</p>
     </footer>
     </>
